@@ -1,7 +1,5 @@
 ### Hi, I'm Giovanna 💻🎻😊🖖
 
-And I'm passionate about technology!
-
 <a href="https://www.linkedin.com/in/giovanna-anacleto/">
   <img align="left" alt="Giovanna Anacleto - Linkedin " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/linkedin.png" />
 </a>
@@ -10,6 +8,10 @@ And I'm passionate about technology!
   <img align="left" alt="Giovanna Anacleto - Twitter " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/twitter.png" />
 </a>
 
+And I'm passionate about technology!
+
+
+<br />
 <br />
 
 
