@@ -1,5 +1,9 @@
 ### Hi, I'm Giovanna 💻🎻😊🖖
 
+And I'm passionate about technology!
+
+<br />
+
 **My Social Networks:**
 
 <a href="https://www.linkedin.com/in/giovanna-anacleto/">
@@ -9,10 +13,6 @@
 <a href="https://twitter.com/batalhanacleto">
   <img align="left" alt="Giovanna Anacleto - Twitter " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/twitter.png" />
 </a>
-
-<br />
-
-And I'm passionate about technology!
 
 <br />
 
