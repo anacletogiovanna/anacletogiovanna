@@ -33,9 +33,8 @@ And I'm passionate about technology!
 <br />
 
 **🏆 Participation in Marathons and Hackathons 🏆**
-- 🥇 1st place Radix Hackaton 2019:
 
-First place with the Mercúrio team, which proposed a platform that provides a communication link between ONS, COS Engie and Engie plants, in order to generate data that feeds BI Analytics. Mercury reduces the operator's cognitive load, guarantees the reliability of the information transferred, enables auditing and provides management with a view of the whole of Engie plants.
+- 🥇 1st place Radix Hackaton 2019:
 
 Here is the repository:
 
@@ -47,8 +46,6 @@ Here is the repository:
 <br />
 
 - 🥈 2nd place at Nasa Space Apps Challenge Brasil - Covid19:
-
-Second place with TaurusOx, an autonomous, accessible and compact system for purifying and monitoring air quality for indoor spaces with high pollution and air contamination. The closed-loop system monitors data through sensors. The indicators are treated in an embedded system, which sends the information to the cloud, providing a dashboard for the user, while activating the filters, composed of microalgae, and an electrostatic barrier.
 
 Here is the repository:
 
