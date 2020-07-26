@@ -1,5 +1,20 @@
 ### Hi, I'm Giovanna 💻🎻😊🖖
 
+- 👩‍💻 I’m currently working on <a href="http://www.radixeng.com.br/">Radix Engineering and Software</a>
+- 📖 I’m currently learning about C#, Python.
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacletogiovanna&hide=javascript,html,css&theme=onedark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anacletogiovanna&show_icons=true&theme=onedark" />
+</a>
+
+<br />
+<br />
+
 ##### Social Networks:
 
 <a href="https://www.linkedin.com/in/giovanna-anacleto/">
@@ -13,16 +28,9 @@
 <br />
 <br />
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacletogiovanna&hide=javascript,html,css&theme=onedark" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anacletogiovanna&show_icons=true&theme=onedark" />
-</a>
 
--->
+
 
 
 <!--
