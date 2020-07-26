@@ -2,10 +2,6 @@
 
 And I'm passionate about technology!
 
-<br />
-
-**My Social Networks:**
-
 <a href="https://www.linkedin.com/in/giovanna-anacleto/">
   <img align="left" alt="Giovanna Anacleto - Linkedin " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/linkedin.png" />
 </a>
@@ -15,6 +11,7 @@ And I'm passionate about technology!
 </a>
 
 <br />
+
 
 **😊 Currently:**
 
