@@ -1,5 +1,17 @@
 ### Hi, I'm Giovanna 💻🎻😊🖖
 
+**My Social Networks:**
+
+<a href="https://www.linkedin.com/in/giovanna-anacleto/">
+  <img align="left" alt="Giovanna Anacleto - Linkedin " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/linkedin.png" />
+</a>
+
+<a href="https://twitter.com/batalhanacleto">
+  <img align="left" alt="Giovanna Anacleto - Twitter " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/twitter.png" />
+</a>
+
+<br />
+
 And I'm passionate about technology!
 
 <br />
@@ -45,17 +57,6 @@ Here is the repository:
 </a>  
 
 <br />
-
-**My Social Networks:**
-
-<a href="https://www.linkedin.com/in/giovanna-anacleto/">
-  <img align="left" alt="Giovanna Anacleto - Linkedin " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/linkedin.png" />
-</a>
-
-<a href="https://twitter.com/batalhanacleto">
-  <img align="left" alt="Giovanna Anacleto - Twitter " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/twitter.png" />
-</a>
-
 <br />
 
 **A brief github status:** 
