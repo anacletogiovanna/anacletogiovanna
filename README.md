@@ -6,6 +6,10 @@
   <img align="left" alt="Giovanna Anacleto - Linkedin " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/linkedin.png" />
 </a>
 
+<a href="https://twitter.com/batalhanacleto">
+  <img align="left" alt="Giovanna Anacleto - Linkedin " width="21px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/twitter.png" />
+</a>
+
 <br />
 <br />
 
