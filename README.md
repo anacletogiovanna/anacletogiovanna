@@ -13,8 +13,6 @@
 
 And I'm passionate about technology!
 
-
-<br />
 <br />
 
 
