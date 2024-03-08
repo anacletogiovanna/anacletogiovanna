@@ -18,8 +18,7 @@ And I'm passionate about technology!
 
 **😊 Currently:**
 
-- 👩‍💻 I’m working on <a href="https://www.hurb.com/br/">Hurb</a>
-- 📖 I’m learning about C#, Python and Embedded Systems.
+- 👩‍💻 I’m working at Nubank
 
 <br />
 
